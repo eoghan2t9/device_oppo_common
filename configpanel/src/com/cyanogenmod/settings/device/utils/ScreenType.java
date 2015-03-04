@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.internal.util.cm;
+package com.cyanogenmod.settings.device.utils;
 
 import android.content.Context;
 import android.util.DisplayMetrics;
